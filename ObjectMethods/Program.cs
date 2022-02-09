@@ -13,6 +13,7 @@ namespace ObjectMethods // Note: actual namespace depends on the project name.
             Console.WriteLine(student2.HasHonors()); //Return true because Pam is smart.
 
             Console.ReadLine();
+
         }
     }
 }
